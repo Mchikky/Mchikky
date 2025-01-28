@@ -1,16 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chikaodili Mary-Kate Deng
-=================================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chikaodili, Deng
+========================================================================================================================================
 
 Data Analyst
 ------------
 
-I am a Data Analyst with monitoring and evaluation experience in development
+I am a Data Analyst/Monitoring and evaluation with over 15 years experience in development sector
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [mchikky@yahoo.com](mailto:mchikky@yahoo.com)
 * 🧠  I'm learning Data science
 * 🤝  I'm open to collaborating on I am open to collaborating on projects
-* ⚡  I love life-long learning
+* ⚡  I am addicted to life-long learning
 
 ### Skills
 
@@ -25,7 +25,11 @@ I am a Data Analyst with monitoring and evaluation experience in development
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Mchikky"><img src="https://github-readme-stats.vercel.app/api?username=Mchikky&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mchikky's GitHub stats" /></a>
+<a href="http://www.github.com/Mchikky"><img src="https://github-readme-stats.vercel.app/api?username=Mchikky&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mchikky's GitHub stats" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Mchikky/https://github.com/Mchikky/Python-project-4-Analysis-of-the-World-s-food-security" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mchikky&repo=https://github.com/Mchikky/Python-project-4-Analysis-of-the-World-s-food-security&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
