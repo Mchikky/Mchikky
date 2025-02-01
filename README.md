@@ -5,8 +5,6 @@ Data Analyst
 ------------
 
 I am a Data Analyst/Monitoring and Evaluation expert with over 15 years experience in development sector
-
-* 🌍  I'm based in France
 * ✉️  You can contact me at [mchikky@yahoo.com](mailto:mchikky@yahoo.com)
 * 🧠  I'm learning Data science
 * 🤝  I'm open to collaborating on I am open to collaborating on projects
