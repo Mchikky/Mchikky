@@ -6,7 +6,7 @@ Data Analyst
 
 I am a Data Analyst/Monitoring and Evaluation expert with over 15 years experience in development sector
 * ✉️  You can contact me at [mchikky@yahoo.com](mailto:mchikky@yahoo.com)
-* 🤝  I'm open to collaborating on I am open to collaborating on projects
+* 🤝  I'm open to collaborating on projects
 * ⚡  I am addicted to life-long learning
 
 ### Skills
